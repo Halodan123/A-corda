@@ -1,2 +1,1 @@
-# A-corda
-Impressionante, uma simples corda feita de esponja com eletromagnetismo segurou 9 rochas de 400 kg
+# PRO-V2-C29-Modelo
